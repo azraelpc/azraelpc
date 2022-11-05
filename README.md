@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @azraelpc
-- 👀 I’m interested in C#, or even in good old ASM
-- 🌱 I’m currently learning again
+- 👀 I’m interested in C#, PHP, SQL... but i started with the basic.
+- 🌱 I’m currently learning again, engineering and reverse.
 - 📫 How to reach me ... winsms at gmail (.) com
 
 <!---
