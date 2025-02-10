@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @azraelpc
 - 👀 I’m interested in C#, FLUTTER, PHP, SQL... but i started with the basic.
-- 🌱 I’m currently learning again, engineering and reversing.
+- 🌱 I’m currently learning again, engineering and reversing. Most of my stuff here is private.
 - 📫 How to reach me ... winsms at gmail (.) com
 
 <!---
