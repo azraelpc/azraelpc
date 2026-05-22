@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @azraelpc
-- 👀 I’m interested in C#, PHP, SQL, JS, WEBGL... but i started with the basic.
-- 🌱 I’m currently learning again, engineering and reversing. Most of my stuff here is private.
+- 👀 I’m interested in C#, PHP, SQL, JS, THREEJS/WEBGL... but i started with the ancient ones.
+- 🌱 I’m currently learning again, engineering and reversing. Most of my stuff here is private but i share some toys.
 - 📫 How to reach me ... winsms at gmail (.) com
 
 <!---
